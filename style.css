@@ -76,6 +76,7 @@ hr{
     display: inline-block;
     padding: 20px;
     margin: 20px;
+    height: 100px;
     width: 15%;
   }
 .box img{
